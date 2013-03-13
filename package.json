@@ -4,8 +4,7 @@
   "description": "Emit events when requests are handled or time out (useful for logging purposes)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/test.js -R spec",
-    "prepublish": "npm test"
+    "test": "mocha test/test.js -R spec"
   },
   "repository": {
     "type": "git",
