@@ -1,5 +1,7 @@
 # request-logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/request-logger.svg)](https://greenkeeper.io/)
+
 Emit events when requests are handled or time out (useful for logging purposes)
 
 ## Installation
